@@ -7,6 +7,7 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link" href="newpost.php">New Image</a>
+        <a class="nav-link" href="myposts.php">My Images</a>
         <a class="nav-link" href="profile.php">Profile</a>
         <a class="nav-link" href="logout.php">Log Out</a>
       </div>
